@@ -1,3 +1,10 @@
+# THIS IS LJ's NOTE
+ 
+This project is based almost entirely off EGATOR's YouTube tutorial linked below
+https://www.youtube.com/watch?v=G-Cr00UYokU
+
+------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
