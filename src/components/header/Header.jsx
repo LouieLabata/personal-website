@@ -8,9 +8,15 @@ const Header = () => {
   return (
     <header> {/* General Container Class (".container") + BIM Naming Convention ("header__container") */}
       <div className="container header__container">
-        <h5>Hello I'm</h5>
-        <h2>Louie Joshua Labata</h2>
-        <h5 className='text-light'>Fullstack Developer</h5>
+        <h4 className='text-light'>Hi, I'm</h4>
+        <h1>Louie Joshua Labata</h1>
+        <h4 className='text-light'>I'm an EECS student at  
+          <span>
+            <a href="https://www.linkedin.com/school/uc-berkeley/" target='_blank'> UC Berkeley. </a>
+          </span>
+          My interests include Software Engineering, Web Development, Robotics, and Mechatronics.
+        </h4>
+        <h4>Check out my work below!</h4>
         <CTA />
         <HeaderSocials />
 

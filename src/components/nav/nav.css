@@ -16,18 +16,28 @@ nav {
 
 nav a {
     background: transparent;
-    padding: 0.9em;
+    padding: 0.5em;
     border-radius: 50%;
     display: flex;
     color: var(--color-light);
     font-size: 1.1rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 nav a:hover {
     background: rgba(0, 0, 0, 0.3);
 }
 
+
 nav a.active {
     background: var(--color-bg);
     color: var(--color-white);
+}
+
+@media screen and (max-width: 600px) {
+    nav a small {
+        display: none;
+    }
 }

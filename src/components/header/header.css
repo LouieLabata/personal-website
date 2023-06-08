@@ -10,6 +10,10 @@ header {
     position: relative;
 }
 
+header h4 {
+    margin: 0 10rem;
+}
+
 /* ======================= CTA ======================= */ /* CTA = call to action */
 .cta {
     margin-top: 2.5rem;
@@ -38,7 +42,7 @@ header {
 
 /* ======================= ME ======================= */ 
 .me {
-    background: linear-gradient(var(--color-primary), transparent);
+    background: linear-gradient(var(--color-primary), 25%, transparent);
     width: 22rem;
     height: 30rem;
     position: absolute;
@@ -62,9 +66,12 @@ header {
 /* ======================= MEDIA QUERIES (MEDIUM DEVICES) ======================= */
 @media screen and (max-width: 1024px) {
     header {
-        height: 68vh; /* vh = viewport height*/
-       
+        height: 68vh; /* vh = viewport height*/  
     }
+    header h4 {
+        margin: 0 8rem;
+    }
+
 }
 
 /* ======================= MEDIA QUERIES (SMALL DEVICES) ======================= */
@@ -76,5 +83,9 @@ header {
     .header__socials,
     .scroll__down {
         display: none;
+    }
+
+    header h4 {
+        margin: 0 1rem;
     }
 }
