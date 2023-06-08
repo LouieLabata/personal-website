@@ -1,6 +1,6 @@
 header {
-    height: 100vh; /* vh = viewport height */
-    padding-top: 7rem;
+    height: 120vh; /* vh = viewport height */
+    padding-top: 3rem;
     overflow: hidden;
 }
 
@@ -11,7 +11,8 @@ header {
 }
 
 header h4 {
-    margin: 0 10rem;
+    width: 500px;
+    margin: 0 auto;
 }
 
 /* ======================= CTA ======================= */ /* CTA = call to action */
@@ -68,10 +69,6 @@ header h4 {
     header {
         height: 68vh; /* vh = viewport height*/  
     }
-    header h4 {
-        margin: 0 8rem;
-    }
-
 }
 
 /* ======================= MEDIA QUERIES (SMALL DEVICES) ======================= */
@@ -86,6 +83,6 @@ header h4 {
     }
 
     header h4 {
-        margin: 0 1rem;
+        width: 300px;
     }
 }
