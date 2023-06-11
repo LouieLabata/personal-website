@@ -1,6 +1,6 @@
 # THIS IS LJ's NOTE
  
-This project is based almost entirely off EGATOR's YouTube tutorial linked below
+This project is inspired by EGATOR's YouTube tutorial linked below
 https://www.youtube.com/watch?v=G-Cr00UYokU
 
 ------------------------------------------------------------------------------------------------------------
