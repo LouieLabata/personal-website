@@ -13,7 +13,7 @@ const data = [
     title: 'Personal Website',
     subtitle: 'A software developer portfolio that details who I am, my projects, and my relevant courses',
     skills: 'React, Javascript, CSS, HTML, Git',
-    github: 'https://github.com',
+    github: 'https://github.com/LouieLabata/personal-website',
   },
   {
     id: 2,
