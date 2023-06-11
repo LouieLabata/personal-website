@@ -32,6 +32,7 @@
 .courses_item-body {
     padding: 0.5rem;
     color: var(--color-light);
+    text-align: left;
 }
 
 .courses__item-cta {

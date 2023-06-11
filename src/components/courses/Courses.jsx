@@ -12,22 +12,6 @@ const data = [
     semester: 'Fall 2022',
     website: 'https://inst.eecs.berkeley.edu/~cs61a/fa22/',
   },
-  {
-    id: 2,
-    title: 'Structure and Interpretation of Computer Programs',
-    name: 'CS 61A',
-    skills: 'Python, Scheme, SQL',
-    semester: 'Fall 2022',
-    website: 'https://inst.eecs.berkeley.edu/~cs61a/fa22/',
-  },
-  {
-    id: 3,
-    title: 'Structure and Interpretation of Computer Programs',
-    name: 'CS 61A',
-    skills: 'Python, Scheme, SQL',
-    semester: 'Fall 2022',
-    website: 'https://inst.eecs.berkeley.edu/~cs61a/fa22/',
-  },
 ]
 
 const Courses = () => {

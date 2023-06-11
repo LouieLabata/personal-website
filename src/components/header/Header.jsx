@@ -14,7 +14,7 @@ const Header = () => {
           <span>
             <a href="https://www.linkedin.com/school/uc-berkeley/" target='_blank'> UC Berkeley. </a>
           </span>
-          My interests include Software Engineering, Web Development, Robotics, and Mechatronics.
+          My interests include Software Engineering, Web Development, Robotics, and Mechatronics
         </h4>
         <h4>Check out my work below!</h4>
         <CTA />
